@@ -1,5 +1,5 @@
 ![Python Version](https://img.shields.io/badge/python-3.8-blue)
-![](D:\test\test_utkin\icons8-probot-24.png)
+![](icons8-probot-24.png)
 
 # Проект **"ЗДЕСЬ БУДЕТ ПРОЕКТ ПАРСЕРА"**
 
