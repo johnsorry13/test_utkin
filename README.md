@@ -33,6 +33,6 @@ vse_instr.run()
 ## Контакты
 ### По вопросам и предложениям:
 
-`почта:john.sorry13@gmail.com`
+**почта:** [john.sorry13@gmail.com](mailto:someone@example.com)
 
-`тел: 111 111 1111`
+**телефон:** [111-111-1111](tel:111-111-1111)
